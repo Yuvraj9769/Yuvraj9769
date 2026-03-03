@@ -1,12 +1,9 @@
 - 👋 Hi, I’m @Yuvraj9769
-- 👀 I’m passionate about web development and love building full-stack applications.
-- 🌱 I’m currently learning Next.js and enhancing my skills in Data Structures and Algorithms (DSA).
-- 💞️ I’m looking to collaborate on innovative Next.js and MERN stack projects.
-- 📫 You can reach me at https://www.linkedin.com/in/yuvraj-salte-1b0a96270/.
-- 😄 Pronouns: He/Him (Yuvraj).
-- ⚡ Fun fact: I enjoy solving coding challenges, exploring new technologies, and building websites!
-
-<!---
-Yuvraj9769/Yuvraj9769 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 Passionate Full-Stack Developer who loves building scalable and modern web applications.
+- 💼 Currently working professionally on full-stack projects using **Next.js, Strapi, Express.js, Node.js, and MERN stack**.
+- 🚀 Actively building production-level applications handling both **frontend (UI/UX, performance, optimization)** and **backend (APIs, authentication, caching, database design)**.
+- 🌱 Continuously improving my skills in **Data Structures & Algorithms (DSA)** and system design.
+- 💞️ Open to collaborating on innovative **Next.js, Strapi, and MERN stack** projects.
+- 📫 Connect with me on LinkedIn: https://www.linkedin.com/in/yuvraj-salte-1b0a96270/
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I enjoy solving coding challenges, exploring new technologies, and building high-performance web applications!
