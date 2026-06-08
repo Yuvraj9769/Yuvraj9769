@@ -50,7 +50,6 @@ I am also a **Microsoft Learn Student Ambassador** and currently pursuing an **o
 
 * Portfolio: https://portfolioyuvi.netlify.app
 * LinkedIn: https://in.linkedin.com/in/yuvraj-salte-1b0a96270
-* GitHub: https://github.com/Yuvraj9769
 * Email: [yuvisalte1@gmail.com](mailto:yuvisalte1@gmail.com)
 
 ---
